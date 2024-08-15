@@ -3,6 +3,9 @@
 Files:
 1. llamaModelProfiler.py
 2. llamaModelrofilerWithOutput.py
+3. profilerWithJsonStorage.py
+
+
 **Calculate flops and memory requirements for each layer, Given sequence length and Max Tokens.**
 
 ##### To run script
